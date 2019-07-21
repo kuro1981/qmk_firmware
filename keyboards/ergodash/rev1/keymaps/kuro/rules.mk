@@ -1,0 +1,4 @@
+BACKLIGHT_ENABLE = yes
+RGBLIGHT_ENABLE = yes
+AUDIO_ENABLE = no
+# LED_UNDERGLOW_ENABLE = no   # LED underglow (Enable WS2812 RGB underlight.)
